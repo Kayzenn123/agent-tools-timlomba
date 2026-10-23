@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#2b1a1d"/>
+  <rect x="8" y="8" width="48" height="48" fill="none" stroke="#e0455a" stroke-width="4"/>
+  <text x="32" y="42" text-anchor="middle" font-family="monospace" font-size="24" font-weight="bold" fill="#e0455a">T_</text>
+  <rect x="8" y="52" width="48" height="4" fill="#e0455a"/>
+</svg>
